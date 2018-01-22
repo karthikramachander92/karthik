@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileUpload</string>
+    <string name="need_permission_to_login">Needed Permission To Login</string>
+    <string name="phone_state_permission">Please allow permission</string>
+    <string name="grant">Allow</string>
+    <string name="cancel1">Cancel</string>
+    <string name="unable_to_get_permission">Unable to get permission</string>
+    <string name="goto_permission">Go to setting and allow permission</string>
+    <string name="internet_connected">Internet Connected</string>
+    <string name="no_internet">Internet Not Connected</string>
+</resources>
